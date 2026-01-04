@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+env/
+ENV/
+
+# Environment
+.env
+
+# Uploads
+uploads/*.pdf
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+uploads/*.webp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
